@@ -1,0 +1,58 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.divider{
+    height: 17.5px;
+    width:100%;
+    display:block; /* for use on default inline elements like span */
+    margin: 0;
+    overflow: hidden;
+    background-color: #2D87CC;
+}
+.navbar-grande{
+    height: 125px;
+}
+
+.custom_nav .navbar.navbar-fixed-top .navbar-inner{
+    background: rgba(255, 255, 255, 0.3);
+}
+
+#banner{
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 17.5px;
+    left:0;
+    right:0;
+    bottom:0;
+}
+.navbar{
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    top: 17.5;
+    left: 0;
+    right:0;
+    padding: 16px;
+    border: 0;
+}
+
+.nav.navbar-nav.navbar-right li a, .nav.navbar-nav li a, .nav.navbar-header.navbar-brand {
+    color: #545454;
+    font-size: 21px;
+    line-height:62.5px;
+}
+
+.navbar-nav > li{
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.nav-logo{
+    padding-top:12.5px;
+}
+
+.img-banner{
+    width:100%;
+    position: absolute;
+}
