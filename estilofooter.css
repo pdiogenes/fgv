@@ -1,0 +1,30 @@
+.copyright{
+     color: #aaa;
+     font-weight: normal;
+     }
+
+footer{
+  background-color: white;
+}
+
+.mapa{
+  background-color: #eee;
+  
+}
+
+.h5, h5 {
+    font-size: 15px;
+    padding: 8px 0px;
+    border-bottom: 1px solid #ddd;
+    color: black;
+    font-weight: bolder;
+}
+
+.linha{
+  background-color: #0a77ad;
+  height:20px;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	}
