@@ -28,7 +28,7 @@ padding-top: 12px;
 	font-size: 25px;
 	color: white;
 	text-align: right;
-	padding-top: 300px;
+	padding-top: 340px;
 	padding-right: 20px;
 }
 
@@ -37,5 +37,36 @@ padding-top: 12px;
 	text-align: center;
 	font-size: 18px;
 	color: #1da4d1;
-	font-weight: bolder;
+	font-weight: normal;
+}
+.fundo {
+	width: 101.5%;
+}
+
+
+.fundo .ipce{
+background-color: #204e8e;
+color: white;
+font-weight: normal;
+padding-top: 20px;
+}
+.fundo .ipce p{
+background-color: #204e8e;
+color: #ccc;
+font-weight: normal;
+font-size: 15px;
+padding-bottom: 30px;
+text-align: left;
+width: 85%;
+}
+
+.fundo .ipce h4{
+font-weight: normal;
+padding-bottom: 10px;
+
+}
+
+.fundo .ipce .media-object {
+	height:161px; 
+	width:214px;
 }
