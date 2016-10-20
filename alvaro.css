@@ -1,0 +1,41 @@
+.inscrever {
+	background-color: #0f95c1;
+	height: 540px;
+	color:white;
+
+}
+
+.cursos{
+	height: 570px;
+	font-weight: 100;
+}
+.noticias{
+	height: 570px;
+	font-weight: 100;
+}
+
+.noticias .media-object {
+	height:95px; 
+	width:160px;
+}
+.data{
+font-family: 'Open Sans', sans-serif;
+color:#ccc;
+padding-top: 12px;
+}
+
+.url {
+	font-size: 25px;
+	color: white;
+	text-align: right;
+	padding-top: 300px;
+	padding-right: 20px;
+}
+
+.mais a{
+	display: block;
+	text-align: center;
+	font-size: 18px;
+	color: #1da4d1;
+	font-weight: bolder;
+}
