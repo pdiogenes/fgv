@@ -1,16 +1,16 @@
 .inscrever {
 	background-color: #0f95c1;
-	height: 540px;
+	height: 60%;
 	color:white;
 
 }
 
 .cursos{
-	height: 570px;
+	height: 70%;
 	font-weight: 100;
 }
 .noticias{
-	height: 570px;
+	height: 70%;
 	font-weight: 100;
 }
 
@@ -21,15 +21,17 @@
 .data{
 font-family: 'Open Sans', sans-serif;
 color:#ccc;
-padding-top: 12px;
+padding-top: 4%;
+padding-bottom: 5%
+
 }
 
 .url {
 	font-size: 25px;
 	color: white;
 	text-align: right;
-	padding-top: 340px;
-	padding-right: 20px;
+	padding-top: 70%;
+	padding-right: 4%;
 }
 
 .mais a{
@@ -40,7 +42,7 @@ padding-top: 12px;
 	font-weight: normal;
 }
 .fundo {
-	width: 101.5%;
+	width: 100%;
 }
 
 
@@ -48,25 +50,32 @@ padding-top: 12px;
 background-color: #204e8e;
 color: white;
 font-weight: normal;
-padding-top: 20px;
+padding-top: 2%;
+padding-left: 3%;
 }
 .fundo .ipce p{
 background-color: #204e8e;
 color: #ccc;
 font-weight: normal;
 font-size: 15px;
-padding-bottom: 30px;
+padding-bottom: 2%;
+padding-left: 6%;
 text-align: left;
-width: 85%;
+width: 70%;
 }
 
 .fundo .ipce h4{
 font-weight: normal;
-padding-bottom: 10px;
-
+padding-bottom: 1%;
+padding-left: 7%;
 }
-
+/* Para mudar para responsivo a imagem... mude para % o tamanho da imagem*/
 .fundo .ipce .media-object {
-	height:161px; 
-	width:214px;
+	height:18%; 
+	width:65%;
+	padding-left: 6.7%;
+}
+.alvaro .container{
+width: 90%;
+padding-top: 80px;
 }
